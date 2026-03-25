@@ -1,8 +1,8 @@
 {
   "recommendations": [
-    "ms-python.python",
-    "ms-vscode.cpptools",
-    "esbenp.prettier-vscode",
-    "ms-vscode.powershell"
+    "ms-python.python": true,
+    "ms-vscode.cpptools": true,
+    "esbenp.prettier-vscode": true,
+    "ms-vscode.powershell": true
   ]
 }
