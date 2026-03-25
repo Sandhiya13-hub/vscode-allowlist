@@ -1,8 +1,5 @@
 {
-    "extensions.allowed": {
-        "microsoft": true,
-        "github": true,
-        "ms-vscode.powershell": true,
-        "bierner.color-info": true
+     {
+        "microsoft": $true
     }
 }
