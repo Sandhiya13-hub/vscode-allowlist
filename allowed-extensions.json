@@ -1,8 +1,8 @@
 {
-  "recommendations": [
-    "ms-python.python": true,
-    "ms-vscode.cpptools": true,
-    "esbenp.prettier-vscode": true,
-    "ms-vscode.powershell": true
-  ]
+    "extensions.allowed": {
+        "microsoft": true,
+        "github": true,
+        "ms-vscode.powershell": true,
+        "bierner.color-info": true
+    }
 }
