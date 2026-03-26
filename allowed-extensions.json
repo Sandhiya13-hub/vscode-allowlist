@@ -1,4 +1,5 @@
 {
         "microsoft": true,
-        "github": true
+        "github": true,
+        "pspester.pester-test": true
 }
