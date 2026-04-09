@@ -1,5 +1,7 @@
 {
         "microsoft": true,
         "github": true,
-        "pspester.pester-test": true
+        "pspester.pester-test": true,
+        "redhat.vscode-yaml": true,
+        "hashicorp.terraform": true
 }
