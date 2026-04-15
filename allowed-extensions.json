@@ -4,5 +4,8 @@
         "Google": true,
         "Redhat": true,
         "HashiCorp": true,
+        "Puppet": true,
+        "Golang": true,
+        "infracost": true,
         "AWS": true
 }
